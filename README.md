@@ -1,6 +1,6 @@
 ### Hi, I'm Vidyut. I build AI systems that take real actions, safely.
 
-AI does the reading and writing, plain code does the math, and a person signs off before anything is sent.\
+My agents do real work, like calling a hospital's billing office or drafting a client change order, but the math is done in code and nothing goes out until a person approves.\
 Penn State CS '26 · **available January 2027** for Forward Deployed Engineer and AI Engineer roles · open to relocate
 
 **Building now:** [PrismAI](https://www.meetprismai.com/), an approval-first meeting agent. 14 beta users, 100+ meetings analyzed; agency release in December.
