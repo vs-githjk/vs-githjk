@@ -19,4 +19,4 @@ Penn State CS '26 · **available January 2027** for Forward Deployed Engineer an
 
 Before this: SWE intern at **Sherlock AI** and **Comcast**, where a 40-person team adopted my agent pilot and cut ~40% of its planning work.
 
-[Portfolio](https://vidyutsriramportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vidyut-sriram-4b5a012aa) · vidyut0712@gmail.com
+[vidyutsriram.dev](https://vidyutsriram.dev/) · [LinkedIn](https://www.linkedin.com/in/vidyut-sriram-4b5a012aa) · vidyut0712@gmail.com
