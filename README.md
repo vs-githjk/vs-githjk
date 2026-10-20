@@ -12,6 +12,10 @@ Penn State CS '26 · **available January 2027** for forward-deployed and applied
 | [arXiv:2607.21641](https://arxiv.org/abs/2607.21641) | Tool-guided repair for LLM-written C: 83.7% fewer CodeQL errors | First author · 2nd Place, Penn State Exhibition |
 | [Match Day](https://www.joinmatchday.com) | Runs a racket tournament from one screen, live scores on every phone | Live |
 | [Vytal](https://joinvytal.live) | Coaching platform where every score is deterministic and explained | Controlled beta |
+| MVR | Verified software modernization: every claim about a legacy codebase links to evidence | Proof of concept · 2,320 tests |
+| [Yinzone](https://github.com/matmanna/yinzone) | Where new housing can go in Pittsburgh, across 142k parcels; I built the cited AI chat | AI for Housing Hackathon 2026 |
+
+**Also built:** [FilingWatch](https://github.com/vs-githjk/filingwatch) (SEC 8-K monitor) · [CinemaChat](https://github.com/vs-githjk/CinemaChat) (agentic movie recommendations) · [TransitGuard](https://github.com/vs-githjk/TransitGuard) (airport bag-transfer risk) · [PaperTrail](https://github.com/vs-githjk/PaperTrail) (learn a field from its foundational papers)
 
 Before this: SWE intern at **Sherlock AI** and **Comcast**, where a 40-person team adopted my agent pilot and cut ~40% of its planning work.
 
