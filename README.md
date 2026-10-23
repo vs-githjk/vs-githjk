@@ -24,3 +24,5 @@ Penn State CS '26 · **4× hackathon winner** · **available January 2027** for 
 Before this: SWE intern at **Sherlock AI** and **Comcast**, where a 40-person team adopted my agent pilot and cut ~40% of its planning work.
 
 [vidyutsriram.dev](https://vidyutsriram.dev/) · [LinkedIn](https://www.linkedin.com/in/vidyut-sriram-4b5a012aa) · vidyut0712@gmail.com
+
+<p align="center"><img src="eye.webp" alt="A blue flaming eye with a slit pupil, slowly looking around" width="100%"></p>
