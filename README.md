@@ -25,4 +25,4 @@ Before this: SWE intern at **Sherlock AI** and **Comcast**, where a 40-person te
 
 [vidyutsriram.dev](https://vidyutsriram.dev/) · [LinkedIn](https://www.linkedin.com/in/vidyut-sriram-4b5a012aa) · vidyut0712@gmail.com
 
-<p align="center"><img src="eye.webp" alt="A blue flaming eye with a slit pupil, slowly looking around" width="100%"></p>
+<p align="center"><img src="eye.webp" alt="A fiery orange eye with a slit pupil, slowly looking around" width="100%"></p>
