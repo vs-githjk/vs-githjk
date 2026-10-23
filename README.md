@@ -1,4 +1,4 @@
-<p align="center"><img src="dragon.svg" alt="A black dragon with crimson wings flying and breathing fire against a night sky" width="100%"></p>
+<p align="center"><img src="dragon.svg" alt="A golden glass dragon with wings spread over a floating city at dusk" width="100%"></p>
 
 ### Hi, I'm Vidyut. I build AI systems that take real actions, safely.
 
