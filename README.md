@@ -3,7 +3,7 @@
 ### Hi, I'm Vidyut. I build AI systems that take real actions, safely.
 
 My agents do real work, like calling a hospital's billing office or drafting a client change order, but the math is done in code and nothing goes out until a person approves.\
-Penn State CS '26 · **5× hackathon winner** · **available January 2027** for Forward Deployed Engineer and AI Engineer roles · open to relocate
+Penn State CS '26 · **5× hackathon winner** · Forward Deployed and AI Engineer
 
 **Building now:** [PrismAI](https://www.meetprismai.com/), an approval-first meeting agent. 14 beta users, 100+ meetings analyzed; agency release in December.
 
