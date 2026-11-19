@@ -6,11 +6,15 @@ My agents do real work, like calling a hospital's billing office or drafting a c
 Penn State CS '26 · **5× hackathon winner** · Forward Deployed and AI Engineer
 
 **Building now:** [PrismAI](https://www.meetprismai.com/), a meeting agent that knows who promised what. 14 beta users, 100+ meetings analyzed; the agency release is live, with a public launch on December 21.\
-**Just shipped:** [DuelWise](https://duelwise.app). Can you beat my agents? Ten games, four AI opponents, and 135 people played 853 matches against them in its first two weeks.
+**Just shipped:** [DuelWise](https://duelwise.app). Can you beat my agents? Ten games, four AI opponents; 151 people have played since it launched on Oct 30, with 853 matches in its first two weeks.\
+**This week:** [Patient Zero](https://patient-0.vercel.app) at the ODSC x Nebius Hackathon: paste a viral statistic and it walks it back to the earliest page that states it.
 
 | Project | What it does | Recognition |
 |---|---|---|
-| [DuelWise](https://duelwise.app) | Ten games from chess to a first-person shooter, four AI opponents trained per game; a level shows a strength number only after it beats the one below | Live · 135 players, 853 matches in 2 weeks · [source](https://github.com/vs-githjk/duelwise) |
+| [PrismAI](https://www.meetprismai.com/) | A meeting agent that knows who promised what, catches asks outside your contract and drafts the change order for your OK | Live beta · 14 users, 100+ meetings |
+| [DuelWise](https://duelwise.app) | Ten games from chess to a first-person shooter, four AI opponents trained per game; a level shows a strength number only after it beats the one below | Live · 151 players since Oct 30 · [source](https://github.com/vs-githjk/duelwise) |
+| [SNAPBACK](https://snapback-navy.vercel.app) | Checks a rental ad against the home's own record before you pay; placed 43 of 48 real listing photos in the right home and 0 of 30 decoys | Live · HackPrinceton 2026 · team of 4 |
+| [Patient Zero](https://patient-0.vercel.app) | Traces a viral statistic back through time to its earliest source, shows the exact sentence at every hop, and says so when the trail goes cold | ODSC x Nebius Hackathon 2026 · team Says Who · [source](https://github.com/vs-githjk/odsc-nebius-hackathon) |
 | [PrismKeep](https://github.com/vs-githjk/sf-startup-challenge) | Six agents run a founder's follow-ups; none tells an investor something a customer contradicted | 🥇 1st overall, SF Startup Challenge 2026 |
 | [FireSight](https://firesight-ten.vercel.app) | A cited 3D arrival brief for fire officers, from 88 San Francisco public data sources | 🥇 Track 1: Public Data APIs, super{set} SF |
 | [Fish Market](https://fishmarket.dev) | AI agents compete for your order, every listing is screened for scams, and big buys wait for your OK on a phone call | 🥇 Best Use of Fetch.ai, Cal Hacks 13.0 |
@@ -19,10 +23,11 @@ Penn State CS '26 · **5× hackathon winner** · Forward Deployed and AI Enginee
 | [arXiv:2607.21641](https://arxiv.org/abs/2607.21641) | Tool-guided repair for LLM-written C: 83.7% fewer CodeQL errors | First author · 2nd Place, Penn State Exhibition |
 | [Match Day](https://www.joinmatchday.com) | Runs a racket tournament from one screen, live scores on every phone | Live |
 | [Vytal](https://joinvytal.live) | Coaching platform where every score is deterministic and explained | Controlled beta |
-| MVR | Verified software modernization: every claim about a legacy codebase links to evidence | Proof of concept · 2,320 tests |
+| MVR | Verified software modernization: every claim about a legacy codebase links to evidence | Proof of concept · 2,320 tests · deploying soon |
+| Master Agents | My own Claude Code crew of 14: one sentence in, a reviewed branch out, and it stops at my gates | Now building · private |
 | [Yinzone](https://github.com/matmanna/yinzone) | Where new housing can go in Pittsburgh, across 142k parcels; I built the cited AI chat | AI for Housing Hackathon 2026 |
 
-**Also built:** [FilingWatch](https://github.com/vs-githjk/filingwatch) (SEC 8-K monitor) · [CinemaChat](https://github.com/vs-githjk/CinemaChat) (agentic movie recommendations) · [TransitGuard](https://github.com/vs-githjk/TransitGuard) (airport bag-transfer risk) · [PaperTrail](https://github.com/vs-githjk/PaperTrail) (learn a field from its foundational papers)
+**Also built:** [NextRound](https://github.com/vs-githjk/NextRound) (interview prep that tells you why you missed) · [Quorum](https://github.com/vs-githjk/Quorum) (an AI teammate that joins your meeting and does the task, YHack) · [AlgoQuest](https://github.com/vs-githjk/AlgoQuest) (algorithms as a game) · [FilingWatch](https://github.com/vs-githjk/filingwatch) (SEC 8-K monitor) · [CinemaChat](https://github.com/vs-githjk/CinemaChat) (agentic movie recommendations) · [TransitGuard](https://github.com/vs-githjk/TransitGuard) (airport bag-transfer risk) · [PaperTrail](https://github.com/vs-githjk/PaperTrail) (learn a field from its foundational papers)
 
 Before this: SWE intern at **Sherlock AI** and **Comcast**, where a 40-person team adopted my agent pilot and cut ~40% of its planning work.
 
